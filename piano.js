@@ -121,3 +121,5 @@ startOver.onclick = function () {
     document.getElementById('letter-note-five').innerHTML = 'C';
     document.getElementById('letter-note-six').innerHTML = 'B';
 };
+
+/*adding comments to commit*/
